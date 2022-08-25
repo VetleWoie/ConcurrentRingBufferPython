@@ -61,5 +61,8 @@ class Ringbuffer():
         out += f"head: {self.head} tail: {self.tail}"
         return out
 
+    def hello():
+        print("hello world")
+
 
         
